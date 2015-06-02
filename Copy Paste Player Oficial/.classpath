@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Copy Paste Player Oficial/src"/>
+	<classpathentry kind="src" path="Copy Paste Player Oficial/ui"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Desktop/workspace/Lib/Lib/JID3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Desktop/workspace/Lib/Lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Desktop/workspace/Copy Paste Player/basicplayer3.0.jar"/>
+	<classpathentry kind="output" path="Copy Paste Player Oficial/bin"/>
+</classpath>
